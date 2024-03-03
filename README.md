@@ -1,4 +1,6 @@
 # Web3 related publications
+[SolChat Messages Insecure Encryption Method](https://h0wl.substack.com/p/solchat-messages-insecure-encryption)
+
 [Friend.tech app incorrect key pricing + locked ETH (joint work with @ELaszlo_)](https://overflow.pl/various/ft_bugbounty_writeup.pdf)
 
 [New Bitcoin City Stored Cross-Site Scripting (XSS) in Mentions](https://h0wl.substack.com/p/new-bitcoin-city-stored-cross-site)
